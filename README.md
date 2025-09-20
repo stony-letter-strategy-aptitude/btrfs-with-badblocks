@@ -27,6 +27,9 @@ These tools are typically pre-installed on most Linux distributions. If not, the
 
 **⚠️ Warning:** Running this tool **will erase all data on your disk**.
 
+**Prerequisite before running:**
+The target disk **must have a GPT partition table** and **contain no existing partitions**.
+
 1. **Clone the repository:**
 
    ```bash
