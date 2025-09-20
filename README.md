@@ -60,4 +60,9 @@ These tools are typically pre-installed on most Linux distributions. If not, the
 
 This project is licensed under the **GPLv2** License. See [LICENSE](LICENSE) for details.
 
+## Contributing
+
+Welcome to contribute! If you have suggestions, bug fixes, or improvements, feel free to **create a Pull Request (PR)**.
+
+Please ensure your contributions are well-documented before submitting.
 
